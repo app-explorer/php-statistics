@@ -1,4 +1,4 @@
-# phpstatistics
+# PHP Statistics Library
 PHP Statistics Library contains following statistical functions
 ## Sum
 The sum of all observations of sample from population or the sum of all elements of population
